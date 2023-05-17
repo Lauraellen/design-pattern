@@ -11,7 +11,7 @@
 
 ## Descricao
 
-Exercicío com exemplo de uma classe convencional e
+Exercício com exemplo de uma classe convencional e
 uma factory que fazem a mesma coisa mas feita de modo diferente.
 
 
